@@ -13,6 +13,7 @@ I build AI applications and work on computer vision, machine learning and data-d
 | Project | Problem and approach |
 | --- | --- |
 | [Tactical Vision](https://github.com/JuanSebastianrs/VM_FOOTBALL) | Co-developed master's thesis: turn monocular football video into structured tactical data using object detection, multi-object tracking, camera calibration and 2D pitch mapping. |
+| [Inside the Game — contributor](https://github.com/luis-pl/Inside-the-game-Developer-Hackathon) | Collaborative football-analysis workspace with cooperating agents, evidence-backed reports, Python/FastAPI, MCP and Azure services. |
 | [Colombian Sign Language to Speech](https://github.com/JuanSebastianrs/TCN_to_LSC) | Recognize ten isolated LSC signs with MediaPipe keypoints and a Temporal Convolutional Network with attention, then produce spoken output. |
 | [Rose Leaf Disease Classification](https://github.com/JuanSebastianrs/DeteccionEnfermedadesHojasRosas) | Classical computer vision and machine learning for leaf-image classification, with feature extraction and model comparisons. |
 | [Football Player Rating Prediction](https://github.com/JuanSebastianrs/RNN-fifa-player-performance-prediction) | Recurrent neural networks and regression baselines for historical FIFA video-game player ratings. |
@@ -27,7 +28,7 @@ The [published evaluation report](https://github.com/JuanSebastianrs/VM_FOOTBALL
 ## Technical toolkit
 
 - **ML and computer vision:** Python, PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, pandas, NumPy.
-- **Applied AI:** AI agents, Retrieval-Augmented Generation (RAG), workflow automation with n8n.
+- **Applied AI:** AI agents, Retrieval-Augmented Generation (RAG), MCP integrations and workflow automation with n8n.
 - **Services and deployment:** FastAPI, Docker, AWS, Azure and Google Cloud.
 - **Research practice:** model training, evaluation, comparative experiments and analysis of failure cases.
 
